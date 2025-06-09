@@ -10,43 +10,6 @@ The quiz features questions from various story arcs including Conan Arc, Sherry 
 
 ![Main Menu](./Main/menu.png)
 
-## Story Arcs
-
-### All Arcs
-Test your knowledge across all Detective Conan story arcs!
-
-
-### Conan Arc
-Questions about Shinichi Kudo's transformation into Conan Edogawa and his early adventures.
-
-
-### Sherry Arc
-Focus on Shiho Miyano (Ai Haibara) and her escape from the Black Organization.
-
-
-### Vermouth Arc
-Questions about the mysterious Black Organization member codenamed Vermouth.
-
-
-### Boss's Phone Number Arc
-Test your knowledge about the hunt for the Black Organization's boss.
-
-
-### Kir Arc
-Questions about the enigmatic Black Organization member Kir and her true identity.
-
-
-### Bourbon Arc
-Focus on the mysterious Bourbon and his investigation of Shuichi Akai.
-
-
-### Rum Arc
-Questions about the hunt for the Black Organization's second-in-command, Rum.
-
-
-### True Detective
-The ultimate challenge! A mix of questions from all arcs for true Detective Conan experts.
-
 
 ## Technical Features
 
