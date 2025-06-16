@@ -1,0 +1,475 @@
+{
+    "arcs": [
+        {
+            "name": "Conan Arc",
+            "description": "This arc covers the initial transformation of Shinichi Kudo into Conan Edogawa and his early interactions with the Black Organization.",
+            "questions": [
+                {
+                    "question": "What was the name of the amusement park where Shinichi Kudo was poisoned and transformed into Conan Edogawa?",
+                    "options": ["Haido Park", "Beika Theme Plaza", "Tropical Land"],
+                    "correct_answer": 2
+                },
+                {
+                    "question": "What are the codenames of the two Black Organization members who poisoned Shinichi Kudo?",
+                    "options": ["Gin and Vodka", "Gin and Vermouth", "Vodka and Chianti"],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "In which case did Conan first meet Heiji Hattori, and what revelation followed later?",
+                    "options": [
+                        "Tsujimura Family Murder Case and Holmes Freak Murder Case",
+                        "Tsujimura Family Murder Case and Osaka Summer Festival Murder Case",
+                        "Holmes Freak Murder Case and Tsujimura Family Murder Case"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was the alias Shinichi Kudo adopted after shrinking, and where did he move?",
+                    "options": [
+                        "Conan Edogawa, Mouri Detective Agency",
+                        "Conan Edogawa, Agasa's House",
+                        "Shinichi Kudo, Kudo's House"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "In which case did Conan first encounter Kaitou Kid, and what was the outcome?",
+                    "options": [
+                        "The Chance Meeting Case",
+                        "The Kidnapping Case at the Sumo Tournament",
+                        "The Mystery of the Golden Score"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "During the Game Company Murder Case, what did Conan learn about the Black Organization?",
+                    "options": [
+                        "They use codenames based on alcohol",
+                        "They are planning to kill Shinichi Kudo",
+                        "They have a secret base in Beika City"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was the cause of Akemi Miyano's death, and who was responsible?",
+                    "options": [
+                        "Shot by Gin after refusing to reveal stolen money location",
+                        "Poisoned by Vodka for betraying the organization",
+                        "Killed by Vermouth in a car accident"
+                    ],
+                    "correct_answer": 0
+                }
+            ]
+        },
+        {
+            "name": "Sherry Arc",
+            "description": "This arc focuses on Sherry/Ai Haibara and her escape from the Black Organization.",
+            "questions": [
+                {
+                    "question": "What was Sherry's real name, and her role in the Black Organization?",
+                    "options": ["Shiho Miyano, scientist", "Akemi Miyano, accountant", "Elena Miyano, researcher"],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "How did she escape from the Organization, and what was her new identity?",
+                    "options": [
+                        "Took APTX 4869, became Ai Haibara",
+                        "Faked her death, became Mary Sera",
+                        "Left Japan, became a spy for CIA"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "Who adopted Shiho after her escape, and where did she study?",
+                    "options": [
+                        "Professor Agasa, Teitan Elementary",
+                        "Kogoro Mouri, Beika High School",
+                        "Yukiko Kudo, Hakozaki Elementary"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "During which event did Conan and Ai face Gin, Vodka, Pisco, and Vermouth?",
+                    "options": [
+                        "Haido City Hotel incident",
+                        "Tropical Land kidnapping",
+                        "Osaka Castle murder"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What critical data did Ai recover at the Haido City Hotel?",
+                    "options": [
+                        "APTX 4869 data, including effects and potential antidotes",
+                        "Black Organization member list",
+                        "Location of the organization's hideout"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "Why did Gin believe Sherry had left Beika after the hotel incident?",
+                    "options": [
+                        "Her behavior suggested she was no longer hiding there",
+                        "She was seen leaving Japan",
+                        "She contacted the FBI for protection"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What decision did Vermouth make after the Haido City Hotel incident?",
+                    "options": [
+                        "She decided to stay in Japan",
+                        "She left the country",
+                        "She joined the FBI"
+                    ],
+                    "correct_answer": 0
+                }
+            ]
+        },
+        {
+            "name": "Vermouth Arc",
+            "description": "This arc focuses on Vermouth and her mysterious connection to Shinichi/Conan.",
+            "questions": [
+                {
+                    "question": "During which case did Conan first meet Jodie Saintemillion?",
+                    "options": [
+                        "Bus Hijacking Case",
+                        "Sunset Mansion detective gathering",
+                        "Haido City Hotel incident"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What happened during the bus hijacking, and who were key passengers?",
+                    "options": [
+                        "FBI agents Akai & Jodie, Conan protected Ai",
+                        "Black Organization members Gin & Vodka, Ran was kidnapped",
+                        "CIA agents Kir & Eisuke, Heiji was involved"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was the outcome of the Sunset Mansion detective gathering?",
+                    "options": [
+                        "Murder solved, Kaitou Kid & Hakuba present",
+                        "All detectives were killed, case unsolved",
+                        "Vermouth revealed her identity, joined the good side"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What caused Ran to recall Shuichi Akai's identity?",
+                    "options": [
+                        "Fever dream triggered memory of New York encounter",
+                        "Saw a photo of Akai in the newspaper",
+                        "Met Akai in person while on vacation"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What did Conan learn from Itakura Suguru about the Organization?",
+                    "options": [
+                        "They forced him to develop a mysterious program",
+                        "They killed his family",
+                        "They stole his research on APTX 4869"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "How did Shuichi Akai recognize Ai Haibara as Shiho Miyano?",
+                    "options": [
+                        "He noticed her resemblance to Shiho from his past",
+                        "He found her fingerprints on a Black Organization document",
+                        "She accidentally called him by his code name"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was the significance of the tapes left by Elena Miyano?",
+                    "options": [
+                        "Contained crucial info on APTX 4869 & Org, hidden by Akemi",
+                        "Had recordings of Black Organization meetings",
+                        "Included Shiho Miyano's diary entries"
+                    ],
+                    "correct_answer": 0
+                }
+            ]
+        },
+        {
+            "name": "Boss's Phone Number Arc",
+            "description": "This arc focuses on Conan's discovery of the Black Organization Boss's contact information.",
+            "questions": [
+                {
+                    "question": "During which case did Conan hear the Boss's keypad tones?",
+                    "options": [
+                        "Halloween Party Case",
+                        "Christmas Party Case",
+                        "New Year's Eve Party Case"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What promise did Vermouth make to Conan and why?",
+                    "options": [
+                        "Not to kill Shiho, because he saved her life",
+                        "To help Conan find the Black Organization",
+                        "To reveal the Boss's identity"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What song helped Conan discover the Boss's e-mail address?",
+                    "options": [
+                        "Nanatsu no Ko",
+                        "Twinkle Twinkle Little Star",
+                        "Happy Birthday"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "Why did Haibara call the email address 'Pandora's Box'?",
+                    "options": [
+                        "It could alert the Black Organization",
+                        "It contained the antidote formula",
+                        "It had Vermouth's true identity"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was the significance of the Boss's contact info?",
+                    "options": [
+                        "Direct link to the leader; highly dangerous",
+                        "Code to access the organization's database",
+                        "Location of the organization's headquarters"
+                    ],
+                    "correct_answer": 0
+                },
+                    {
+                    "question": "Why Conan Track Vermouth while she texting someone high ranked from BO?",
+                    "options": [
+                        "To contact the Boss directly",
+                        "To track leads and bait the Organization",
+                        "To decode encrypted messages from the Organization"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was the result of Conan's discovery?",
+                    "options": [
+                        "He advanced, but greatly increased his risk",
+                        "He solved all cases without any danger",
+                        "He was captured by the Black Organization"
+                    ],
+                    "correct_answer": 0
+                }
+            ]
+        },
+        {
+            "name": "Kir Arc",
+            "description": "This arc focuses on the CIA agent Kir who infiltrated the Black Organization.",
+            "questions": [
+                {
+                    "question": "How did Conan discover Rena Mizunashi was Kir?",
+                    "options": [
+                        "Via deductions in an attempted assassination case",
+                        "Through a tip from Vermouth",
+                        "By finding her fingerprints on a weapon"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "How did Eisuke Hondou behave after transferring to Teitan?",
+                    "options": [
+                        "Watched Conan, showed keen interest in Rena",
+                        "Befriended Ran, tried to get close to Shinichi",
+                        "Investigated Professor Agasa, suspected him of hiding Sherry"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "How did Eisuke manipulate Kogoro for info about Rena?",
+                    "options": [
+                        "Through indirect questions while befriending him",
+                        "By hacking into his computer",
+                        "By following him and eavesdropping on his conversations"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "Who informed the Org and Eisuke about Kir's fate?",
+                    "options": [
+                        "Toji Funemoto",
+                        "Jodie Saintemillion",
+                        "Shuichi Akai"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What happened at Conan's second meeting with Saguru Hakuba?",
+                    "options": [
+                        "Detective competition revealed rivalry and suspicions",
+                        "Solved a case together, became friends",
+                        "Fought each other, Heiji won"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What did Conan learn about Kir and Eisuke's father?",
+                    "options": [
+                        "Both were CIA; Kir was a NOC agent",
+                        "Both were Black Organization members; Kir was a double agent",
+                        "Both were FBI agents; Kir was undercover in the Black Organization"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was Gin's demand to Kir, and what was the outcome?",
+                    "options": [
+                        "Kill Shuichi Akai; she faked it, Akai survived",
+                        "Find Sherry; she located Ai Haibara",
+                        "Steal a valuable artifact; she succeeded with Bourbon's help"
+                    ],
+                    "correct_answer": 0
+                }
+            ]
+        },
+        {
+            "name": "Bourbon Arc",
+            "description": "This arc focuses on the mysterious Bourbon and his investigation of Shuichi Akai.",
+            "questions": [
+                {
+                    "question": "Who is Subaru Okiya, and what is his true identity?",
+                    "options": [
+                        "Shuichi Akai in disguise, infiltrating the Org",
+                        "A new member of the Black Organization",
+                        "An FBI agent working undercover as a teacher"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "Why did Bourbon introduce 'Scar Akai'?",
+                    "options": [
+                        "To test reactions and confirm Shuichi's status",
+                        "To lure out Vermouth",
+                        "To find out if Conan is Shinichi Kudo"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What happened during the Bell Tree Express case?",
+                    "options": [
+                        "Revealed suspicions on Vermouth, Amuro investigated further",
+                        "Discovered a new member of the Black Organization",
+                        "Found evidence of APTX 4869's side effects"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "How did Amuro deduce Conan controls Sleeping Kogoro?",
+                    "options": [
+                        "Through pattern observation in cases",
+                        "By seeing Conan use a voice changer",
+                        "From a conversation between Ran and Sonoko"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "Why did Kaitou Kid disguise himself as Masumi in Blush Mermaid Case?",
+                    "options": [
+                        "To create misdirection and attempt a theft",
+                        "To help Conan solve a case",
+                        "To reveal his true identity to Ran"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What did Jodie reveal about Akai's actions at Haido Hospital?",
+                    "options": [
+                        "He was active and gathering intel; overheard by Amuro",
+                        "He was injured and needed medical attention; seen by Eisuke",
+                        "He was meeting with Vermouth; witnessed by Kir"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "How did Masumi reveal her family background to Conan?",
+                    "options": [
+                        "Casual convo during bowling hinted at their brother",
+                        "Found a photo of them together in Masumi's room",
+                        "Overheard a phone conversation between Masumi and her brother"
+                    ],
+                    "correct_answer": 0
+                }
+            ]
+        },
+        {
+            "name": "Rum Arc",
+            "description": "This arc focuses on the Black Organization's second-in-command, Rum.",
+            "questions": [
+                {
+                    "question": "What was Rum's role at the International Economic Forum?",
+                    "options": [
+                        "Represented Karasuma Group due to leader's poor health",
+                        "Was the main speaker at the forum",
+                        "Revealed his true identity as the Boss"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What's the significance of 'ASACA RUM' in Kohji Haneda's case?",
+                    "options": [
+                        "Dying message implicating Rum and possibly Asaka (Mary)",
+                        "Code for a secret meeting place",
+                        "Password for the Black Organization's database"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "Why did Conan suspect Asaka might be Rum?",
+                    "options": [
+                        "She had unusual strength and mystery around her",
+                        "She was seen with Gin and Vodka",
+                        "She knew too much about the Black Organization"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "How did Rum show interest in Shinichi Kudo?",
+                    "options": [
+                        "Sent a message: 'Time is Money!'",
+                        "Tried to poison him during a meeting",
+                        "Hired an assassin to kill him"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was Rum's plan against Yusaku Kudo, and how was it foiled?",
+                    "options": [
+                        "Planned to kill him; FBI + Yusaku outsmarted him",
+                        "Tried to frame him for a crime; plan failed",
+                        "Offered him a position in the Black Organization; he refused"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "What was the outcome of the hunt for Camel?",
+                    "options": [
+                        "Camel faked his death; Rum orchestrated the mission",
+                        "Camel was captured by the Black Organization; Rum interrogated him",
+                        "Camel escaped with important information; Rum was furious"
+                    ],
+                    "correct_answer": 0
+                },
+                {
+                    "question": "Who is Rumi Wakasa, and what did Rum do about her?",
+                    "options": [
+                        "Suspected Rum link; Rum ordered a hit but failed",
+                        "Was actually Rum in disguise; identity revealed",
+                        "Helped Conan uncover Rum's identity; both were killed by the Organization"
+                    ],
+                    "correct_answer": 0
+                }
+            ]
+        }
+    ]
+}
