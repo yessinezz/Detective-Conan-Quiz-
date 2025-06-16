@@ -16,23 +16,24 @@ Test your knowledge across different Detective Conan story arcs:
 
 #### Core Arcs
 <p float="left">
-  <img src="./eg/conan arc.png" width="280" height="160" style="margin-right:10px;" />
-  <img src="./eg/sherry arc.png" width="280" height="160" style="margin-right:10px;" />
-  <img src="./eg/vermouth arc.png" width="280" height="160" style="margin-right:10px;" />
+  <img src="./eg/conan arc.png" width="400" height="230" style="margin-right:15px;" />
+  <img src="./eg/sherry arc.png" width="400" height="230" style="margin-right:15px;" />
+  <img src="./eg/vermouth arc.png" width="400" height="230" />
 </p>
 
-<p float="left" style="margin-top:10px;">
-  <img src="./eg/boss's number phone arc.png" width="210" height="140" style="margin-right:10px;" />
-  <img src="./eg/kir arc.png" width="210" height="140" style="margin-right:10px;" />
-  <img src="./eg/bourbon arc.png" width="210" height="140" style="margin-right:10px;" />
-  <img src="./eg/rum arc.png" width="210" height="140" style="margin-right:10px;" />
+<p float="left" style="margin-top:20px;">
+  <img src="./eg/boss's number phone arc.png" width="320" height="180" style="margin-right:15px;" />
+  <img src="./eg/kir arc.png" width="320" height="180" style="margin-right:15px;" />
+  <img src="./eg/bourbon arc.png" width="320" height="180" style="margin-right:15px;" />
+  <img src="./eg/rum arc.png" width="320" height="180" />
 </p>
 
 #### Special Modes
-<p float="left" style="margin-top:20px;">
-  <img src="./eg/all arcs.png" width="300" height="170" style="margin-right:10px;" />
-  <img src="./eg/True detective conan.png" width="300" height="170" />
+<p float="left" style="margin-top:30px;">
+  <img src="./eg/all arcs.png" width="380" height="220" style="margin-right:20px;" />
+  <img src="./eg/True detective conan.png" width="380" height="220" />
 </p>
+
 
 ### Dynamic Interface
 - **Animated Backgrounds**: Each quiz section features subtle zoom and pan animations that bring the backgrounds to life, creating an immersive experience
