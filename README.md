@@ -19,10 +19,6 @@ Test your knowledge across different Detective Conan story arcs:
   <img src="./eg/conan arc.png" width="320" />
   <img src="./eg/sherry arc.png" width="320" />
   <img src="./eg/vermouth arc.png" width="320" />
-</p>
-
-#### Organization Arcs
-<p float="left">
   <img src="./eg/boss's number phone arc.png" width="240" />
   <img src="./eg/kir arc.png" width="240" />
   <img src="./eg/bourbon arc.png" width="240" />
