@@ -15,13 +15,25 @@ The quiz features questions from various story arcs including Conan Arc, Sherry 
 Test your knowledge across different Detective Conan story arcs:
 
 #### Core Arcs
-![Conan Arc](./eg/conan arc.png) ![Sherry Arc](./eg/sherry arc.png) ![Vermouth Arc](./eg/vermouth arc.png)
+<p float="left">
+  <img src="./eg/conan arc.png" width="320" />
+  <img src="./eg/sherry arc.png" width="320" />
+  <img src="./eg/vermouth arc.png" width="320" />
+</p>
 
 #### Organization Arcs
-![Boss's Number](./eg/boss's number phone arc.png) ![Kir Arc](./eg/kir arc.png) ![Bourbon Arc](./eg/bourbon arc.png) ![Rum Arc](./eg/rum arc.png)
+<p float="left">
+  <img src="./eg/boss's number phone arc.png" width="240" />
+  <img src="./eg/kir arc.png" width="240" />
+  <img src="./eg/bourbon arc.png" width="240" />
+  <img src="./eg/rum arc.png" width="240" />
+</p>
 
 #### Special Modes
-![All Arcs](./eg/all arcs.png) ![True Detective](./eg/True detective conan.png)
+<p float="left">
+  <img src="./eg/all arcs.png" width="320" />
+  <img src="./eg/True detective conan.png" width="320" />
+</p>
 
 ### Dynamic Interface
 - **Animated Backgrounds**: Each quiz section features subtle zoom and pan animations that bring the backgrounds to life, creating an immersive experience
