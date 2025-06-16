@@ -16,19 +16,22 @@ Test your knowledge across different Detective Conan story arcs:
 
 #### Core Arcs
 <p float="left">
-  <img src="./eg/conan arc.png" width="320" />
-  <img src="./eg/sherry arc.png" width="320" />
-  <img src="./eg/vermouth arc.png" width="320" />
-  <img src="./eg/boss's number phone arc.png" width="240" />
-  <img src="./eg/kir arc.png" width="240" />
-  <img src="./eg/bourbon arc.png" width="240" />
-  <img src="./eg/rum arc.png" width="240" />
+  <img src="./eg/conan arc.png" width="280" height="160" style="margin-right:10px;" />
+  <img src="./eg/sherry arc.png" width="280" height="160" style="margin-right:10px;" />
+  <img src="./eg/vermouth arc.png" width="280" height="160" style="margin-right:10px;" />
+</p>
+
+<p float="left" style="margin-top:10px;">
+  <img src="./eg/boss's number phone arc.png" width="210" height="140" style="margin-right:10px;" />
+  <img src="./eg/kir arc.png" width="210" height="140" style="margin-right:10px;" />
+  <img src="./eg/bourbon arc.png" width="210" height="140" style="margin-right:10px;" />
+  <img src="./eg/rum arc.png" width="210" height="140" style="margin-right:10px;" />
 </p>
 
 #### Special Modes
-<p float="left">
-  <img src="./eg/all arcs.png" width="320" />
-  <img src="./eg/True detective conan.png" width="320" />
+<p float="left" style="margin-top:20px;">
+  <img src="./eg/all arcs.png" width="300" height="170" style="margin-right:10px;" />
+  <img src="./eg/True detective conan.png" width="300" height="170" />
 </p>
 
 ### Dynamic Interface
