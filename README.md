@@ -56,7 +56,15 @@ Test your knowledge across different Detective Conan story arcs:
 
 ## How to Run
 
-1. Make sure you have Python installed (Python 3.6 or higher recommended)  
-2. Install required dependencies:  
-   ```bash
-   pip install PyQt6
+1. Make sure you have Python installed (Python 3.6 or higher recommended)
+2. Install required dependencies: `pip install PyQt6`
+3. Run the application: `python gui/main.py`
+
+## Copyright
+
+© Med Yessine Khmiri (Student)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
