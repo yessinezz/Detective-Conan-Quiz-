@@ -6,7 +6,6 @@ Detective Conan Quiz is a fun and interactive quiz game based on the popular ani
 
 The quiz features questions from various story arcs including Conan Arc, Sherry Arc, Vermouth Arc, Boss's Phone Number Arc, Kir Arc, Bourbon Arc, and Rum Arc. You can also challenge yourself with the "True Detective" mode that combines questions from all arcs!
 
-<<<<<<< HEAD
 ## Features
 
 ### Main Menu
@@ -16,7 +15,7 @@ The quiz features questions from various story arcs including Conan Arc, Sherry 
 Test your knowledge across different Detective Conan story arcs:
 
 #### Core Arcs
-![Core Arcs](./eg/conan arc.png) ![Sherry Arc](./eg/sherry arc.png) ![Vermouth Arc](./eg/vermouth arc.png)
+![Conan Arc](./eg/conan arc.png) ![Sherry Arc](./eg/sherry arc.png) ![Vermouth Arc](./eg/vermouth arc.png)
 
 #### Organization Arcs
 ![Boss's Number](./eg/boss's number phone arc.png) ![Kir Arc](./eg/kir arc.png) ![Bourbon Arc](./eg/bourbon arc.png) ![Rum Arc](./eg/rum arc.png)
@@ -28,28 +27,14 @@ Test your knowledge across different Detective Conan story arcs:
 - **Animated Backgrounds**: Each quiz section features subtle zoom and pan animations that bring the backgrounds to life, creating an immersive experience
 - **Smooth Transitions**: Elegant transitions between screens and questions
 - **Visual Feedback**: Color-coded buttons show correct/incorrect answers instantly
-=======
-## Main Menu
-
-![Main Menu](./Main/menu.png)
-
->>>>>>> 73b0baec36bc9c0963cf706e9d95e2d7e7685a0c
 
 ## Technical Features
 
 - **PyQt6 GUI**: Modern and responsive user interface
 - **Dynamic Question Loading**: Questions loaded from JSON file for easy updates
-<<<<<<< HEAD
 - **Score Tracking**: Keeps track of your performance with percentage calculation
 - **Progress Bar**: Visual indicator of quiz progress
 - **Randomized Questions**: Questions are shuffled for a fresh experience each time
-=======
-- **Animated Backgrounds**: Subtle zoom and pan animations for background images
-- **Score Tracking**: Keeps track of your performance with percentage calculation
-- **Progress Bar**: Visual indicator of quiz progress
-- **Randomized Questions**: Questions are shuffled for a fresh experience each time
-- **Visual Feedback**: Color-coded buttons show correct/incorrect answers
->>>>>>> 73b0baec36bc9c0963cf706e9d95e2d7e7685a0c
 - **Multiple Quiz Modes**: Choose from individual arcs or combined challenges
 
 ## Project Structure
@@ -59,14 +44,7 @@ Test your knowledge across different Detective Conan story arcs:
 
 ## How to Run
 
-1. Make sure you have Python installed (Python 3.6 or higher recommended)
-2. Install required dependencies: `pip install PyQt6`
-3. Run the application: `python gui/main.py`
-
-## Copyright
-
-© Med Yessine Khmiri (Student)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+1. Make sure you have Python installed (Python 3.6 or higher recommended)  
+2. Install required dependencies:  
+   ```bash
+   pip install PyQt6
